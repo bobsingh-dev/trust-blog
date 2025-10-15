@@ -1,4 +1,16 @@
-baseURL = "https://bobsingh-dev.github.io/"
+baseURL = "https://bobsingh-dev.github.io/trust-blog/"
 languageCode = "en-us"
 title = "Trust & Identity Blog"
 theme = "PaperMod"
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "Bob"
+  description = "Exploring digital trust, identity, and AI security"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = "auto"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
