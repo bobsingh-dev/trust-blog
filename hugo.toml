@@ -1,0 +1,4 @@
+baseURL = "https://bobsingh-dev.github.io/"
+languageCode = "en-us"
+title = "Trust & Identity Blog"
+theme = "PaperMod"

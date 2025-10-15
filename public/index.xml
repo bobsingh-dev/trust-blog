@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trust &amp; Identity Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Trust &amp; Identity Blog</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Digital Trust &amp; Identity</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Trust is the new currency of the digital world.&lt;/p&gt;
+&lt;p&gt;From zero-trust networks to AI identity verification, our future depends on verifiable digital relationships.
+This blog will explore the foundations of &lt;strong&gt;Trust, Identity, and Attestation&lt;/strong&gt; in modern systems—from TLS and SPIFFE/SPIRE to decentralized identity.&lt;/p&gt;
+&lt;p&gt;Welcome to Day 1.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
