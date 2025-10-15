@@ -2,8 +2,12 @@ baseURL = "https://bobsingh-dev.github.io/trust-blog/"
 languageCode = "en-us"
 title = "Trust & Identity Blog"
 theme = "PaperMod"
+
 [pagination]
   pagerSize = 5
+
+relativeURLs = true
+canonifyURLs = true
 
 [params]
   author = "Bob"
