@@ -6,7 +6,7 @@ theme = "PaperMod"
 [pagination]
   pagerSize = 5
 
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 [params]
